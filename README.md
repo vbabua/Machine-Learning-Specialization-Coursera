@@ -1,1 +1,1 @@
-# Machine-Learning-Speecialization-Coursera
+# Machine-Learning-Specialization-Coursera
